@@ -21,7 +21,7 @@ Look at a data set and apply various functions rom Pandas library to examine or 
 
 ## [Pandas Basics](https://github.com/pavsingh7/Pandas/blob/main/pandas_basics.ipynb)
 
-Look at different methods in pandas with different examples. Similar to the cheat sheet. Purpose was for repitition and getting familiar with the methods.
+Look at different methods in pandas with different examples. Similar to the cheat sheet. Purpose was for repetition and getting familiar with the methods.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pavsingh7/Pandas/blob/master/pandas_basics.ipynb)
 
@@ -43,3 +43,22 @@ The work is best used in a code editor or online editor like Google Colab - link
 - [Data School](https://www.dataschool.io)
 - [Data Quest](https://www.dataquest.io/blog/plot-dataframe-pandas/)
 
+## Datasets
+
+A list of datasets to  play around with using pandas;
+
+- [Chipotle orders](http://bit.ly/chiporders)
+- [Movie Reviewers](http://bit.ly/movieusers)
+- [UFO Sighting Reports](http://bit.ly/uforeports)
+- [Top Rated IMBDb Movies](http://bit.ly/imdbratings)
+- [Country Alcohol Consumption](http://bit.ly/drinksbycountry)
+
+<table>
+  <tr>
+    <td>
+      <img src="/img/pandas.png" width="275" height="250">
+    </td>
+    <td>
+      <img src="/img/python.png" width="280" height="250">
+    </td>
+</table>
